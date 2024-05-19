@@ -7,10 +7,10 @@ int main() {
     double a, b, c;
     cin >> a >> b >> c;
     
-    cout.precision(4);
+    cout.precision(3);
     cout << fixed << a << "\n";
 
-    cout.precision(5);
+    cout.precision(4);
     cout << fixed << b << "\n";
 
     cout.precision(3);
