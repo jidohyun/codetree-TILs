@@ -7,8 +7,8 @@ int main() {
     double a, b, c;
     cin >> a >> b >> c;
     
-    cout << setprecision(4) << a << "\n";
-    cout << setprecision(5) << b << "\n";
-    cout << fixed << setprecision(3) << c;
+    cout << precision(4) << a << "\n";
+    cout << precision(5) << b << "\n";
+    cout << fixed << precision(3) << c;
     return 0;
 }
