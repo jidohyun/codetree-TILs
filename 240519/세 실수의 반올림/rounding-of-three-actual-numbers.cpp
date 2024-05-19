@@ -8,10 +8,10 @@ int main() {
     cin >> a >> b >> c;
     
     cout.precision(4);
-    cout << a << "\n";
+    cout << fixed << a << "\n";
 
     cout.precision(5);
-    cout << b << "\n";
+    cout << fixed << b << "\n";
 
     cout.precision(3);
     cout << fixed  << c;
