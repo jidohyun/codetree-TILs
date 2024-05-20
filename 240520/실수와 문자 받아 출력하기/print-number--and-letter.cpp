@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -6,9 +6,8 @@ int main() {
     double a, b;
     cin >> c >> a >> b;
     cout << c << "\n";
-    cout.precision(4);
-    cout << a << "\n";
-    cout.precision(5);
-    cout << b << "\n";
+    cout << fixed;
+    cout << setprecision(2) << a << "\n";
+    cout << setprecision(2) << b << "\n";
     return 0;
 }
