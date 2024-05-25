@@ -6,7 +6,7 @@ int main() {
     cin >> n;
     if(n <= 5)
     {
-        cout << "tiny";
+        cout << n * n << "\n" << "tiny";
     }
     else {
         cout << n * n;
