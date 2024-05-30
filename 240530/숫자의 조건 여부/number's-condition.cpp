@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     int a;
+    cin >> a;
     if(a >= 133)
     {
         cout << 1;
