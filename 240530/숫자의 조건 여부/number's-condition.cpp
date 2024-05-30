@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int a;
-    if(a <= 133)
+    if(a >= 133)
     {
         cout << 1;
     }
