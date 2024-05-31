@@ -18,7 +18,7 @@ int main() {
     }
     else
     {
-        cout << "Vancancy";
+        cout << "Vacancy";
     }
     return 0;
 }
