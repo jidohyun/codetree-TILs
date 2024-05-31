@@ -12,7 +12,7 @@ int main() {
     {
         cout << "book";
     }
-    else
+    else if(n >= 1000)
     {
         cout << "mask";
     }
