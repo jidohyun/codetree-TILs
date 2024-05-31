@@ -18,7 +18,7 @@ int main() {
     }
     else if(a >= 60)
     {
-        cout << 'D;
+        cout << 'D';
     }
     else
     {
