@@ -8,13 +8,13 @@ int main() {
     {
         cout << "no";
     }
-    else if(n >= 1000 && n < 4000)
+    else if(n >= 1000 && n <= 3000)
     {
-        cout << "book";
+        cout << "mask";
     }
     else
     {
-        cout << "mask";
+        cout << "book";
     }
     return 0;
 }
