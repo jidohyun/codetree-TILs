@@ -6,7 +6,7 @@ int main() {
     cin >> a;
     if(a == 1)
     {
-        cout << "john";
+        cout << "John";
     }
     else if(a == 2)
     {
