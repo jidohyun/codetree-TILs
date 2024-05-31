@@ -8,7 +8,7 @@ int main() {
     {
         cout << "no";
     }
-    else if(n <= 3000)
+    else if(n >= 3000)
     {
         cout << "book";
     }
