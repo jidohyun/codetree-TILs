@@ -24,6 +24,6 @@ int main() {
     {
         cout << 'F';
     }
-    eturn 0;
+    return 0;
 
 }
