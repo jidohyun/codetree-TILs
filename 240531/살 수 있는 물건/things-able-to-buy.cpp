@@ -10,11 +10,11 @@ int main() {
     }
     else if(n >= 1000 && n <= 3000)
     {
-        cout << "mask";
+        cout << "book";
     }
     else
     {
-        cout << "book";
+        cout << "mask";
     }
     return 0;
 }
