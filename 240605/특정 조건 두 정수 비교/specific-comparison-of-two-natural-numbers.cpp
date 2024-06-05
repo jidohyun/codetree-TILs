@@ -12,5 +12,9 @@ int main() {
     {
         cout << 0 << ' ' << 1;
     }
+    else
+    {
+        
+    }
     return 0;
 }
